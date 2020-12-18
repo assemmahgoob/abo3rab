@@ -1,0 +1,46 @@
+{"version_code":4,"content":"
+<p>تحديث جديد 20.4</p>
+
+<li> التحديث للإصدار ٢.٢٠.٢٠١.٢٣ </li>
+<li> إضافة التدمير الذاتي للرسائل (المحادثة - معلومات المحادثة - الرسائل ذاتية الإختفاء) </li>
+<li> إضافة خيار لعمل رسالة جماعية للمجموعات </li>
+<li>إضافة خيار لعرض أيقونة القفل بجانب المحادثات المقفلة بالشاشة الرئيسية </li>
+<li>إمكانية تخصيص التنزيل التلقائي للوسائط (افتح المحادثة - معلومات المحادثة - التنزيل التلقائي للوسائط) </li>
+<li>إمكانية معرفة من عمل لك إشارة منشن بالمجموعات وظهور أيقونة المنشن بالشاشة الرئيسية </li>
+<li>إمكانية تخصيص إظهار الصحين الأزرق فقط بعد الرد </li>
+<li>إمكانية إضافة الستيكرات للبرنامج عبر برامج قوقل بلاي </li>
+<li> إضافة خيار لتغيير مشغل الوسائط </li>
+<li> إضافة خيار لإظهار إشعار من أصبح متصل </li>
+<li>إضافة خيار لإظهار إشعار عند تغيير الصور الشخصية </li>
+<li> إضافة خيار لإظهار إشعار عند مشاهدة حالتك </li>
+<li>إضافة خيار لإظهار إشعار عند ما يقوم أحد ما بتغيير حالته </li>
+<li>إضافة خيار لإختيار نغمة تنبيه إشعار نخب الإتصال </li>
+<li> إضافة خيار لتحديد مكان ظهور التنبيه </li>
+<li> إضافة خيار لتحديد مدة التنبيه </li>
+<li> إضافة خيار لإظهار الإشعار بخط عريض </li>
+<li> إصلاح عدم ظهور مربعات التفعيل أمام الخيارات </li>
+<li> إصلاحات على أداء البرنامج </li>
+
+
+<li> Update Base to 2.20.201.23 </li>
+<li> Added disappearing messages (conversation-conversation Information-disappearing messages) </li>
+<li> Added Broadcast Messages to Groups </li>
+<li> Added Option to Show lock icon in home row for Locked chats </li>
+<li> Added Customize Media Download options for each contact/group separately </li>
+<li> Added Mention Icon on Main Screen to Easily Know where you are tagged </li>
+<li> Added Customize Show Blue Ticks after reply option for each contact/group separately </li>
+<li> Added Ability to Add Stickers from Apps </li>
+<li> Added option Videos Player to Select your favorite player </li>
+<li> Added Option to Stop Playing Voice Note Automatically </li>
+<li> Added option to Show Contact Online Toast </li>
+<li> Added option to Show Toast when someone change Profile Pic </li>
+<li> Added option to Show Toast when someone view your status </li>
+<li> Added option to Show toast if contact status changes </li>
+<li> Added option to Select Play Tone Also </li>
+<li> Added option to change the position of Toast </li>
+<li> Added option to select duration of the notification </li>
+<li> Added option to Set Bold Text Toast </li>
+<li> Other Fixed </li>
+
+","url":"http://bit.ly/wa-bussines-plus-latest-version"
+}
