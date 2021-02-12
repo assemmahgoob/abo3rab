@@ -1,37 +1,36 @@
 {"version_code":100,"content":"
 <p>تحديث جديد 1.20</p>
 
-<li> التحديث للإصدار ٢.٢٠.٢٠١.٢٣ </li>
-<li> إضافة التدمير الذاتي للرسائل (المحادثة - معلومات المحادثة - الرسائل ذاتية الإختفاء) </li>
-<li> إضافة خيار لعمل رسالة جماعية للمجموعات </li>
-<li>إضافة خيار لعرض أيقونة القفل بجانب المحادثات المقفلة بالشاشة الرئيسية </li>
-<li>إمكانية تخصيص التنزيل التلقائي للوسائط (افتح المحادثة - معلومات المحادثة - التنزيل التلقائي للوسائط) </li>
-<li>إمكانية معرفة من عمل لك إشارة منشن بالمجموعات وظهور أيقونة المنشن بالشاشة الرئيسية </li>
-<li>إمكانية تخصيص إظهار الصحين الأزرق فقط بعد الرد </li>
-<li>إمكانية إضافة الستيكرات للبرنامج عبر برامج قوقل بلاي </li>
-<li> إضافة خيار لتغيير مشغل الوسائط </li>
-<li> إضافة خيار لإظهار إشعار من أصبح متصل </li>
+<li>التحديث للإصدار 2.21.1.13 </li>
+<li>إضافة ستايل جديد لاضافات واتساب اعمال الذهبي </li>
+<li>إضافة تغير الثيمات </li>
+<li>إضافة ترجمة الرسائل بداخل المحادثه </li>
+<li>اضافة إميزة عرض الرسائل المحذوفه</li>
+<li>اضافة ميزة عرض الرسائل المرسله في المجموعات</li>
+<li>اضافة ميزة عرض اسم المشرف في المجموعات</li>
+<li>اضافة الرد التلقائي وجدولة الرسائل</li>
+<li>امكانية اعادة توجيه الرسائل الى اكثر من 250 شخص</li>
+<li>إضافة خيار لإظهار إشعار من أصبح متصل </li>
 <li>إضافة خيار لإظهار إشعار عند تغيير الصور الشخصية </li>
-<li> إضافة خيار لإظهار إشعار عند مشاهدة حالتك </li>
+<li>إضافة خيار لإظهار إشعار عند مشاهدة حالتك </li>
 <li>إضافة خيار لإظهار إشعار عند ما يقوم أحد ما بتغيير حالته </li>
 <li>إضافة خيار لإختيار نغمة تنبيه إشعار نخب الإتصال </li>
-<li> إضافة خيار لتحديد مكان ظهور التنبيه </li>
-<li> إضافة خيار لتحديد مدة التنبيه </li>
-<li> إضافة خيار لإظهار الإشعار بخط عريض </li>
-<li> إصلاح عدم ظهور مربعات التفعيل أمام الخيارات </li>
-<li> إصلاحات على أداء البرنامج </li>
+<li>إضافة خيار لتحديد مكان ظهور التنبيه </li>
+<li>إضافة خيار لتحديد مدة التنبيه </li>
+<li>إضافة خيار لإظهار الإشعار بخط عريض </li>
+<li>إصلاح عدم ظهور مربعات التفعيل أمام الخيارات </li>
+<li>إصلاحات على أداء البرنامج </li>
 
 
-<li> Update Base to 2.20.201.23 </li>
-<li> Added disappearing messages (conversation-conversation Information-disappearing messages) </li>
-<li> Added Broadcast Messages to Groups </li>
-<li> Added Option to Show lock icon in home row for Locked chats </li>
-<li> Added Customize Media Download options for each contact/group separately </li>
-<li> Added Mention Icon on Main Screen to Easily Know where you are tagged </li>
-<li> Added Customize Show Blue Ticks after reply option for each contact/group separately </li>
-<li> Added Ability to Add Stickers from Apps </li>
-<li> Added option Videos Player to Select your favorite player </li>
-<li> Added Option to Stop Playing Voice Note Automatically </li>
+<li> Update Base to 2.2.21.1.13 </li>
+<li> Added New style for WhatsApp Business Gold add-ons</li>
+<li> Added Changing themes</li>
+<li> Added Translate messages within the conversation</li>
+<li> Added View deleted message</li>
+<li> Added View messages sent in group</li>
+<li> Added Display admin name in groups</li>
+<li> Added Auto reply and message scheduling</li>
+<li> Added The ability to forward messages to more than 250 people</li>
 <li> Added option to Show Contact Online Toast </li>
 <li> Added option to Show Toast when someone change Profile Pic </li>
 <li> Added option to Show Toast when someone view your status </li>
