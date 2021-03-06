@@ -41,5 +41,5 @@
 <li> Added option to Set Bold Text Toast </li>
 <li> Other Fixed </li>
 
-","url":"https://www.3ssem.com/2020/10/whatsapp-bussiness-gold.html"
+","url":"https://t.me/AssemBlogger/2735"
 }
